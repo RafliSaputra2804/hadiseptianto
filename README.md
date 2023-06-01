@@ -1,11 +1,11 @@
-# Hi there, I'm RahardianSeptianto -  [Rahardian](https://studio.youtube.com/channel/UCPxmCksiWFLup3OI0-L7VOw/editing/images) 👋
+# Hi there, I'm Rafly Saputra  -  [Rafly](https://studio.youtube.com/channel/UCnJpXLMcOV4NTQy_z3zr99A/editing/images) 👋
 ## About me:
 - 🔭 I’m currently studen at Universitas Dian Nusantara 
 - 🌱 I’m currently learning Python and Javascript
 - 👯 I’m looking to collaborate as Data Analyst
 - 🤔 I’m looking for suggest for Automation and Data Analyst
 - 💬 Ask me about anything
-- 📫 How to reach me: ajarahardian@gmail.com
+- 📫 How to reach me: raflysaputra2804@gmail.com
 
 ## Education:
 
@@ -13,11 +13,11 @@
    - coding html
    - coding tentang cv
    - coding c++
- #### 2. [SMK Assyafiyah 02](https://www.sman1kebumen.sch.id) | akuntasi | Cilangkap `2017-2020`
-   - bikin table penjualan
+ #### 2. [SMK  42](https://www.sman1kebumen.sch.id) | Komputer | Solok Selatan  `2017-2020`
+   - ketua pemuda 
 
 ## Work Experience:
-#### 1. [PT. bagus global indo](https://www.huawei.com) | Project Controller | jakarta pusat `jan'2018 - Now`
+#### 1. [PT. Bagus Global Indo](https://www.huawei.com) | Project Controller | Jakarta Pusat `Jan'2018 - Now`
    - mengajarkan tentang angota badan pajak
    - pegawai pajak di lingkungan ditjen pajak
    - konsultan pajak mandiri
